@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Local Weather</string>
+    <string name="_5_day_forecast">5 Day Forecast</string>
+    <string name="update_content">Update content</string>
+    <string name="refresh">Refresh</string>
+    <string name="return_to_top">Return to Top</string>
+    <string name="tampere">Tampere</string>
+    <string name="sunny">Sunny</string>
+    <string name="_0_c">0 C</string>
+    <string name="forecast">Forecast</string>
+    <string name="refesh">Refesh</string>
+    <string name="no_location">Where are you?!</string>
+    <string name="check_map">Check Map</string>
+    <string name="web_page">web page</string>
+    <string name="timer">Timer</string>
+    <string name="please_click_refresh">Please click Refresh!</string>
+</resources>

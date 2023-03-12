@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">當地天氣</string>
+    <string name="_5_day_forecast">五日預報</string>
+    <string name="update_content">更新資訊</string>
+    <string name="refresh">重新整理</string>
+    <string name="return_to_top">回首頁</string>
+    <string name="tampere">坦佩雷</string>
+    <string name="sunny">晴</string>
+    <string name="_0_c">0 C</string>
+    <string name="forecast">預報</string>
+    <string name="refesh">重新整理</string>
+    <string name="no_location">你在哪?!</string>
+    <string name="check_map">查看地圖</string>
+    <string name="web_page">開啟網頁</string>
+    <string name="timer">計時器</string>
+    <string name="please_click_refresh">請重新整理！</string>
+</resources>

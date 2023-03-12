@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">地元天気</string>
+    <string name="_5_day_forecast">五日予報</string>
+    <string name="update_content">アップデート</string>
+    <string name="refresh">リフレッシュ</string>
+    <string name="return_to_top">トップに戻る</string>
+    <string name="tampere">タンペレ</string>
+    <string name="sunny">晴れ</string>
+    <string name="_0_c">0 C</string>
+    <string name="forecast">予報</string>
+    <string name="refesh">リフレッシュ</string>
+    <string name="no_location">何処にいる？</string>
+    <string name="check_map">マップ</string>
+    <string name="web_page">オープンページ</string>
+    <string name="timer">タイマー</string>
+    <string name="please_click_refresh">リフレッシュしてください!</string>
+</resources>
